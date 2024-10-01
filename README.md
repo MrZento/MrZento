@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MrZento
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning native.js
+- 💞️ I’m looking to collaborate on next.js, create.js and other frontend development!
+- 📫 How to reach me trough my discord: zentosypher#0000
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have been making websites for 3 years now!
